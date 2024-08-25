@@ -1,8 +1,7 @@
-# Print Anagrams Together
+# < TITLE >
 
-## Problem statement 
-
-<Problem statement here>
+## Problem statement
+< Problem statement here >
 
 ### Examples
 | Input | Output | Explaination |
@@ -45,4 +44,4 @@ The output will be
 < Analyze space complexity >
 
 ## Reference
-< References here >
+[Link here](https://profile.thebendu.link/)
